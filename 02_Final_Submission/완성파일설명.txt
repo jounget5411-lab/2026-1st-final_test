@@ -1,0 +1,5 @@
+해당 폴더에 최종 작성 코드를 넣으시오
+
+1. cnn_exam_학번_이름.ipynb
+2. gan_exam_학번_이름.ipynb
+3. rnn_exam_학번_이름.ipynb
